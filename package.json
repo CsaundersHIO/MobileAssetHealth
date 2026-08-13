@@ -1,0 +1,8 @@
+{
+  "name": "mobileassist-proxy",
+  "version": "1.0.0",
+  "description": "Model proxy for the Mobile Asset Health AI Command Centre",
+  "main": "index.js",
+  "dependencies": { "@azure/identity": "^4.5.0" },
+  "engines": { "node": ">=20" }
+}
